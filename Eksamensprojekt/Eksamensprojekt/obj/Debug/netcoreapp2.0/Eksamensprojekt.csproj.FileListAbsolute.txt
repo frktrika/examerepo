@@ -1,0 +1,11 @@
+C:\Users\Katrine Fiks IT\source\repos\Eksamensprojekt\Eksamensprojekt\bin\Debug\netcoreapp2.0\Eksamensprojekt.deps.json
+C:\Users\Katrine Fiks IT\source\repos\Eksamensprojekt\Eksamensprojekt\bin\Debug\netcoreapp2.0\Eksamensprojekt.runtimeconfig.json
+C:\Users\Katrine Fiks IT\source\repos\Eksamensprojekt\Eksamensprojekt\bin\Debug\netcoreapp2.0\Eksamensprojekt.runtimeconfig.dev.json
+C:\Users\Katrine Fiks IT\source\repos\Eksamensprojekt\Eksamensprojekt\bin\Debug\netcoreapp2.0\Eksamensprojekt.dll
+C:\Users\Katrine Fiks IT\source\repos\Eksamensprojekt\Eksamensprojekt\bin\Debug\netcoreapp2.0\Eksamensprojekt.pdb
+C:\Users\Katrine Fiks IT\source\repos\Eksamensprojekt\Eksamensprojekt\obj\Debug\netcoreapp2.0\Eksamensprojekt.csprojResolveAssemblyReference.cache
+C:\Users\Katrine Fiks IT\source\repos\Eksamensprojekt\Eksamensprojekt\obj\Debug\netcoreapp2.0\Eksamensprojekt.csproj.CoreCompileInputs.cache
+C:\Users\Katrine Fiks IT\source\repos\Eksamensprojekt\Eksamensprojekt\obj\Debug\netcoreapp2.0\Eksamensprojekt.AssemblyInfoInputs.cache
+C:\Users\Katrine Fiks IT\source\repos\Eksamensprojekt\Eksamensprojekt\obj\Debug\netcoreapp2.0\Eksamensprojekt.AssemblyInfo.cs
+C:\Users\Katrine Fiks IT\source\repos\Eksamensprojekt\Eksamensprojekt\obj\Debug\netcoreapp2.0\Eksamensprojekt.dll
+C:\Users\Katrine Fiks IT\source\repos\Eksamensprojekt\Eksamensprojekt\obj\Debug\netcoreapp2.0\Eksamensprojekt.pdb
